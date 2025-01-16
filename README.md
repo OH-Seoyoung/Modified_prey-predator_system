@@ -10,9 +10,9 @@ analyze the stability behavior of fixed points.
 
 
 ## "A MODIFIED PREY-PREDATOR MODEL WITH COUPLED RATES OF CHANGE"
-### [Paper](https://koreascience.kr/article/JAKO202106758753099.pdf) | [Code](https://github.com/OH-Seoyoung/Modified_prey-predator_system) 
+### [Paper](https://koreascience.kr/article/JAKO202106758753099.page) | [Code](https://github.com/OH-Seoyoung/Modified_prey-predator_system) 
 > **Abstract** The prey–predator model is one of the most influential mathematical models in ecology and evolutionary biology. In this study, we considered a modified prey–predator model, which describes the rate of change for each species. The effects of modifications to the classical prey–predator model are investigated here. The conditions required for the existence of the first integral and the stability of the fixed points are studied. In particular, it is shown that the first integral exists only for a subset of the model parameters, and the phase portraits around the fixed points exhibit physically relevant phenomena over a wide range of the parameter space. The results show that adding coupling terms to the classical model widely expands the dynamics with great potential for applicability in real-world phenomena.
-- This paper is accepted by `KSIAM` indexed in `KCI`.
+- This paper is accepted by `KSIAM` indexed in `ESCI`.
 
 
 &nbsp;
